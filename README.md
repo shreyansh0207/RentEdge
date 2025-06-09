@@ -11,9 +11,7 @@ There are several ways of editing your application.
 
 
 
-
-
-
+//
 
 **Edit a file directly in GitHub**
 
