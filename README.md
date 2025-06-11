@@ -24,6 +24,7 @@ There are several ways of editing your application.
 
 This project is built with:
 
+
 - Vite
 - TypeScript
 - React
